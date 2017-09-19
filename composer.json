@@ -16,7 +16,7 @@
         "ext-mbstring": "*",
         "ext-libxml": "*",
         "lib-libxml": ">=2.7.7",
-        "guzzlehttp/guzzle": "6.*",
+        "guzzlehttp/guzzle": "~5.0|~6.0",
         "jakeasmith/http_build_url": "0.1.*",
         "scotteh/php-dom-wrapper": "~0.7"
     },
